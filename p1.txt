@@ -4,3 +4,4 @@ karnataka
 india
 new branch is created
 user1 is created
+user2 is created
